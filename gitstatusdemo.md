@@ -1,2 +1,3 @@
 This line will conflict with what I wrote in the repository.
-git 
+...
+Trump is a problem-solver like Godzilla is a city-planner.
